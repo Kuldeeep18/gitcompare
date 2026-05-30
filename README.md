@@ -6,6 +6,16 @@ Built specifically for GSSoC contributors, this repository is fully ready for de
 
 ---
 
+## 🎨 Visual Preview
+
+### Landing Dashboard
+![Landing Dashboard View](public/screenshot-landing.png)
+
+### Developer Stats & Language Comparison View
+![Developer Comparison View](public/screenshot-compare.png)
+
+---
+
 ## 🎨 Key Features
 
 1. **Side-by-Side Comparison:** Compares bio parameters, repositories, forks, watchers, stars, pull requests, and issues.
